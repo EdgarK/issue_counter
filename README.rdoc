@@ -1,16 +1,16 @@
-= issue_counter
+=== issue_counter
 
 
 A plugin that adds in project nuber of the issue.
 
 
-===Installation===
+===Installation
 
 clone this repo into plugins folder of your redmine instalation
 
 run 
 
-```rake redmine:plugins:migrate```
+`rake redmine:plugins:migrate`
 in you required enviroment (or all of them)
 
 
