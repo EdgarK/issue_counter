@@ -1,0 +1,4 @@
+= issue_counter
+
+Description goes here
+A plugin that adds in project nuber of the issue.
