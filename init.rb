@@ -6,6 +6,6 @@ Redmine::Plugin.register :issue_counter do
   author 'EdgarK'
   description 'This is a plugin for Redmine that should add issue counter related to the project.'
   version '0.0.1'
-  url 'http://nopage'
+  url 'https://github.com/EdgarK/issue_counter'
   author_url 'http://nopage'
 end
